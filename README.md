@@ -26,10 +26,21 @@ Moving forward, we plan to further refine our models, explore additional dataset
 
 # How to explore our models
 #Install Required Libraries:
-Ensure you have all the necessary libraries installed as specified in the setup.py file.
+1. Clone the repository:
+
+   How to Run Setup.py
+   
+   Navigate to Your Project Directory:
+   Open a terminal and navigate to the directory containing your setup.py script.
+   
+   Run the Desired Command:
+   For example, to install the package, run:
+   
+          **** python Setup.py install ***
 
 # Run the Program:
 Execute the program using the command adera3.0_run in your terminal.
+
 
 # Choose Model Options:
 Follow the prompts to select the model configurations you wish to evaluate. Press Enter to confirm your choices.
