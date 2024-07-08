@@ -28,16 +28,16 @@ Moving forward, we plan to further refine our models, explore additional dataset
 #Install Required Libraries:
 Ensure you have all the necessary libraries installed as specified in the setup.py file.
 
-#Run the Program:
+# Run the Program:
 Execute the program using the command adera3.0_run in your terminal.
 
-#Choose Model Options:
+# Choose Model Options:
 Follow the prompts to select the model configurations you wish to evaluate. Press Enter to confirm your choices.
 
-#Compilation and Plotting:
+# Compilation and Plotting:
 The selected model will compile and generate plots. You can find these plots in the results_Adera3 folder.
 
-#Future Updates:
+# Future Updates:
 We are continuously improving our project and plan to introduce real-time prediction features in the future. Stay tuned for updates!
 
 
