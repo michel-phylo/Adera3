@@ -25,9 +25,16 @@ Our findings underscore the potential of leveraging CNA/CNV profiles to enhance 
 Moving forward, we plan to further refine our models, explore additional datasets to validate our findings, and collaborate with clinical experts to translate our research into practical clinical applications.
 
 # How to explore our models
-#Install Required Libraries:
+## Installation
+
 1. Clone the repository:
 
+   
+   git clone https://github.com/yourusername/project-name.git
+   
+#Install Required Libraries:
+
+2. 
    How to Run Setup.py
    
    Navigate to Your Project Directory:
