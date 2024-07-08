@@ -39,7 +39,7 @@ Moving forward, we plan to further refine our models, explore additional dataset
           **** python Setup.py install ***
 
 # Run the Program:
-Execute the program using the command adera3.0_run in your terminal.
+Execute the program using by runing Run_APP.py , then choose the type of analysis you need , and the script will open up in jupyter otherwise the code of each type is available.
 
 
 # Choose Model Options:
